@@ -4,8 +4,8 @@
 Partner #1: Enter your name: Brad Grupczynski
 Partner #1: Enter your favorite food: Cereal
 
-Partner #2: Enter your name: Test Bartucz
-Partner #2: Enter your favorite food: Test Pizza
+Partner #2: Enter your name: Zoey Chen
+Partner #2: Enter your favorite food: Ramen
 
 Even though I know my partner is editing this file
 I am going to edit the same part as well, moooahahahah!
