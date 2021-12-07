@@ -36,7 +36,13 @@ body {
   overflow: hidden;
 }
 
+#header {
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    font-size: 40px;
+    padding: 25px;
+}
+
 #visited {
-  border: 10px;
-  border-color: #000000;
+    text-decoration: underline;
 }
